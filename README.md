@@ -1,0 +1,2 @@
+# Juastock
+Visual Studio Project
