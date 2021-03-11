@@ -1,0 +1,11 @@
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\bin\Debug\Juastock.exe.config
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\bin\Debug\Juastock.exe
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\bin\Debug\Juastock.pdb
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.csprojAssemblyReference.cache
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.List_Product.resources
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.Properties.Resources.resources
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.csproj.GenerateResource.cache
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.csproj.CoreCompileInputs.cache
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.exe
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.pdb
+C:\Users\Oakspkscl\source\repos\Juastock\Juastock\obj\Debug\Juastock.JuastockMain.resources
